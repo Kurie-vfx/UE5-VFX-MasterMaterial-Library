@@ -24,3 +24,8 @@ VFXアーティスト向けに設計した、UE5の汎用的なマスターマ�
 ## 🧩License
 This project is licensed under the MIT License.
 商用・個人利用問わず自由に使用できます。
+
+## 🧩Manual
+導入方法や使い方はこちらのマニュアルをご覧ください。
+[UE5 Kurie VFX Shader マニュアル](https://zenn.dev/kurie/books/4e27d7a6dc84de)
+
