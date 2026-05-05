@@ -20,7 +20,7 @@
 導入方法や使い方はこちらのマニュアルをご覧ください。  
 [UE5 Kurie VFX Shader マニュアル](https://zenn.dev/kurie/books/4e27d7a6dc84de)
 
-## 🧩内容
+## 🧩機能
   - フリップブック
   - 複数テクスチャのブレンド
   - UVの設定いろいろ
@@ -30,6 +30,7 @@
   - 屈折
 
 ## 🧩License
+MIT License です。
 商用・個人利用問わず自由に使用できます。
 
 ## 🧩Updates
