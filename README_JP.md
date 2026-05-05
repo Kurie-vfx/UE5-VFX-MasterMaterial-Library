@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" src="images/header1.png" alt="Kurie VFX Shader">
+  <img width="75%" src="images/header1.png" alt="Kurie VFX Shader">
 </p>
 
 # UE5 Kurie VFX Shader
@@ -7,7 +7,7 @@
 「**Kurie VFX Shader**」はエフェクト制作でよく使われる機能をまとめた UE5 の汎用マスターマテリアルのパックです。
 
 <p align="center">
-  <img width="80%" src="images/VFXSample01.gif" alt="Kurie VFX Shader">
+  <img width="60%" src="images/VFXSample01.gif" alt="Kurie VFX Shader">
 </p>
 
 ## 🧩特徴
