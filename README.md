@@ -8,7 +8,7 @@
 [日本語はこちら](README_JP.md) 
 
 <p align="center">
-  <img width="80%" src="images/VFXSample01.gif" alt="Kurie VFX Shader">
+  <img width="60%" src="images/VFXSample01.gif" alt="Kurie VFX Shader">
 </p>
 
 ## 🧩Features

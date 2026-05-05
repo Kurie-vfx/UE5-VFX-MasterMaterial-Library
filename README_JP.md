@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="75%" src="images/header1.png" alt="Kurie VFX Shader">
+  <img width="80%" src="images/header1.png" alt="Kurie VFX Shader">
 </p>
 
 # UE5 Kurie VFX Shader
