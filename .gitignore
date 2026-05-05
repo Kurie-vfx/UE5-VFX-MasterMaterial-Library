@@ -8,6 +8,7 @@
 # =========================
 !Content/
 !Content/VFX_Material_Library/
+!images/
 
 # サブフォルダも許可
 !Content/VFX_Material_Library/**/
@@ -17,28 +18,9 @@
 # =========================
 !Content/VFX_Material_Library/**/*.uasset
 !Content/VFX_Material_Library/**/*.umap
+!images/*.png
 
 # =========================
 # 除外したいフォルダ
 # =========================
 Content/VFX_Material_Library/_Ignore/
-
-# =========================
-# 念のため（保険）
-# =========================
-*.ptex
-*.mmcr
-*.psd
-*.tga
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.blend
-*.blend1
-*.fbx
-*.mp4
-*.avif
-*.webm
-*.webp
-*.zip
