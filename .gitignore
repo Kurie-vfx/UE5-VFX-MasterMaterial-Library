@@ -6,6 +6,9 @@
 # =========================
 # 必要なフォルダだけ許可
 # =========================
+.gitignore
+README.md
+README_JP.md
 !Content/
 !Content/VFX_Material_Library/
 !images/
