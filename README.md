@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="60%" src="https://raw.githubusercontent.com/Kurie-vfx/UE5-VFX-MasterMaterial-Library/main/images/header1.png#gh-light-mode-only" alt="Kurie VFX Shader">
+  <img width="80%" src="images/header1.png" alt="Kurie VFX Shader">
 </p>
 
 # UE5 Kurie VFX Shader
