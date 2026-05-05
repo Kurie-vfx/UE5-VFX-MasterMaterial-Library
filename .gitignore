@@ -4,11 +4,15 @@
 *
 
 # =========================
+# 必要なファイルを許可
+# =========================
+!.gitignore
+!README.md
+!README_JP.md
+
+# =========================
 # 必要なフォルダだけ許可
 # =========================
-.gitignore
-README.md
-README_JP.md
 !Content/
 !Content/VFX_Material_Library/
 !images/
@@ -22,6 +26,7 @@ README_JP.md
 !Content/VFX_Material_Library/**/*.uasset
 !Content/VFX_Material_Library/**/*.umap
 !images/*.png
+!images/*.gif
 
 # =========================
 # 除外したいフォルダ
