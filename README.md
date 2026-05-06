@@ -19,7 +19,7 @@
 
 ## 🧩How to Use
 For installation and usage instructions, please refer to the manual below.  
-[UE5 Kurie VFX Shader Manual](https://zenn.dev/kurie/books/4e27d7a6dc84de)
+[UE5 Kurie VFX Shader Manual](https://zenn.dev/kurie/books/685c2eb2b762f1)
 
 ## 🧩Features
 - Flipbook  
